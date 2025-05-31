@@ -1,10 +1,8 @@
--Hello World 👋 , I'm Dheeraj Patel
-- 👀 I’m interested in Coding
-- 🌱 I’m java Full Stack Developer..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hello World! I'm Dheeraj Patel
 
-<!---
-dheeraj9307/dheeraj9307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about coding and solving real-world problems.  
+🌱 I’m a Java Full Stack Developer exploring innovative technologies.  
+💞️ I’m looking to collaborate on impactful projects and open-source contributions.  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dheeraj-patel-6384361a8)
+
+---
