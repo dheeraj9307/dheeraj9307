@@ -129,9 +129,12 @@ A document question-answering application that implements a Retrieval-Augmented 
 
 ### 3. Personal Portfolio
 
-A personal website showcasing my technical skills, projects, professional experience, and contact information.
+A responsive personal portfolio website showcasing my technical skills, featured projects, professional experience, and contact information. Built using HTML, CSS, and JavaScript.
 
-**Status:** Portfolio source code repository not yet published.
+**Technologies:** HTML5, CSS3, JavaScript
+
+- **Source Code:** [View Portfolio Repository on GitHub](https://github.com/dheeraj9307/portfolio)
+- **Live Website:** [Visit My Portfolio](https://dheeraj9307.github.io/portfolio/)
 
 ## Professional Experience
 
