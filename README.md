@@ -18,6 +18,8 @@ Software Engineer with experience in Java backend development, enterprise softwa
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Axios, Zustand
 
+**Messaging & Event-Driven Systems:** Apache Kafka concepts, producers, consumers, topics, partitions, asynchronous messaging, WebSocket, STOMP, SockJS
+
 **Databases & Caching:** MySQL, MongoDB, Redis, ChromaDB
 
 **Security:** JWT, Refresh Tokens, OAuth Integration, Authentication, Authorization, XML Parser Security, XXE Prevention, Input Validation
